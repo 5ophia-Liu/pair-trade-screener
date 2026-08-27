@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Project output
+logfiles/*.txt
+logfiles/*.csv
+!logfiles/.gitkeep
+
+# Secrets / config
+.env
+
+# OS
+.DS_Store
