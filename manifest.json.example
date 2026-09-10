@@ -1,0 +1,16 @@
+{
+  "manifest_version": "0.1",
+  "name": "pair-trade-screener",
+  "version": "1.0.0",
+  "description": "Pairs trading cointegration screener exposed as MCP tools",
+  "author": { "name": "Sophia Liu" },
+  "server": {
+    "type": "python",
+    "entry_point": "mcp_server.py",
+    "mcp_config": {
+      "_comment": "REPLACE the command below with the full path to YOUR venv's python3. Example: /Users/yourname/Projects/pair-trade-screener/.venv/bin/python3",
+      "command": <<< REPLACE_WITH_YOUR_VENV_PYTHON_PATH >>>,
+      "args": ["${__dirname}/mcp_server.py"]
+    }
+  }
+}
