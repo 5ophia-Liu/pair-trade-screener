@@ -7,6 +7,10 @@ mean-reversion speed estimation. It's available both as a CLI tool and as an MCP
 so the same analysis can be queried in natural language through an AI client like Claude
 Desktop.
 
+## Demo
+
+https://github.com/user-attachments/assets/f5479b28-d3ec-4692-8aec-ebf92864c2b5
+
 ## What it does
 
 For each pair (e.g. `KO` / `PEP`), the screener computes:
