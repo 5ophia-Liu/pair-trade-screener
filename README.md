@@ -9,7 +9,7 @@ Desktop.
 
 ## Demo
 
-https://github.com/user-attachments/assets/f5479b28-d3ec-4692-8aec-ebf92864c2b5
+https://github.com/user-attachments/assets/d811314d-1ee6-4cd8-a8c3-efbbf56835eb
 
 ## What it does
 
